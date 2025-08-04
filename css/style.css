@@ -1,0 +1,302 @@
+/* All Common CSS Start Here */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* All Common CSS End Here */
+
+.main{
+    height: 600px;
+    width: 900px;
+    background-color: black;
+}
+
+.one{
+    height: 200px;
+    width: 900px;
+    background-color: red;
+}
+
+.one_one{
+    height: 200px;
+    width: 360px;
+    background-color: yellow;
+    float: left;
+}
+
+.one_one_one{
+    height: 66.6px;
+    width: 360px;
+    background-color: orange;
+}
+
+.one_one_one_a{
+    height: 66.6px;
+    width: 180px;
+    background-color: pink;
+    float: left;
+}
+
+.one_one_one_b{
+    height: 66.6px;
+    width: 180px;
+    background-color: purple;
+    float: left;
+}
+
+.one_one_two{
+    height: 66.6px;
+    width: 360px;
+    background-color: cyan;
+}
+
+.one_one_two_a{
+    height: 66.6px;
+    width: 108px;
+    background-color: lightgreen;
+    float: left;
+}
+
+.one_one_two_a_x{
+    height: 33.3px;
+    width: 108px;
+    background-color: lightblue;
+    float: left;
+}
+
+.one_one_two_a_y{
+    height: 33.3px;
+    width: 108px;
+    background-color: lightcoral;
+    float: left;
+}
+
+.one_one_two_b{
+    height: 66.6px;
+    width: 252px;
+    background-color: lightyellow;
+    float: left;
+}
+
+.one_one_three{
+    height: 66.6px;
+    width: 360px;
+    background-color: lightgray;
+}
+
+.one_two{
+    height: 200px;
+    width: 540px;
+    background-color: lightpink;
+    float: left;
+}
+
+.one_two_one{
+    height: 100px;
+    width: 540px;
+    background-color: lightseagreen;
+    float: left;
+}
+
+.one_two_two{
+    height: 100px;
+    width: 540px;
+    background-color: lightsalmon;
+    float: left;
+}
+
+.two{
+    height: 200px;
+    width: 900px;
+    background-color: green;
+    float: left;
+}
+
+.two_one{
+    height: 200px;
+    width: 450px;
+    background-color: lightblue;
+    float: left;
+}
+
+.two_one_one{
+    height: 100px;
+    width: 450px;
+    background-color: lightcoral;
+    float: left;
+}
+
+.two_one_two{
+    height: 100px;
+    width: 180px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+}
+
+.two_one_two_a{
+    height: 50px;
+    width: 180px;
+    background-color: lightcyan;
+    float: left;
+}
+
+.two_one_two_a_x{
+    height: 50px;
+    width: 90px;
+    background-color: lightpink;
+    float: left;
+}
+
+.two_one_two_a_y{
+    height: 50px;
+    width: 90px;
+    background-color: lightsteelblue;
+    float: left;
+}
+
+.two_one_two_b{
+    height: 50px;
+    width: 180px;
+    background-color: lightgray;
+    float: left;
+}
+
+.two_one_three{
+    height: 100px;
+    width: 270px;
+    background-color: lightyellow;
+    float: left;
+}
+
+.two_two{
+    height: 200px;
+    width: 135px;
+    background-color: lightgreen;
+    float: left;
+}
+
+.two_three{
+    height: 200px;
+    width: 315px;
+    background-color: lightpink;
+    float: left;
+}
+
+.two_three_one{
+    height: 100px;
+    width: 315px;
+    background-color: lightseagreen;
+    float: left;
+}
+
+.two_three_one_a{
+    height: 100px;
+    width: 126px;
+    background-color: lightcoral;
+    float: left;
+}
+
+.two_three_one_a_x{
+    height: 50px;
+    width: 126px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+}
+
+.two_three_one_a_y{
+    height: 50px;
+    width: 126px;
+    background-color: lightcyan;
+    float: left;
+}
+
+.two_three_one_b{
+    height: 100px;
+    width: 140px;
+    background-color: lightblue;
+    float: left;
+}
+
+.two_three_one_c{
+    height: 100px;
+    width: 49px;
+    background-color: lightgray;
+    float: left;
+}
+
+.two_three_one_c_x{
+    height: 50px;
+    width: 49px;
+    background-color: lightpink;
+    float: left;
+}
+
+.two_three_one_c_y{
+    height: 50px;
+    width: 49px;
+    background-color: lightsteelblue;
+    float: left;
+}
+
+.three{
+    height: 200px;
+    width: 900px;
+    background-color: blue;
+    float: left;
+}
+
+.three_one{
+    height: 200px;
+    width: 270px;
+    background-color: lightyellow;
+    float: left;
+}
+
+.three_two{
+    height: 200px;
+    width: 630px;
+    background-color: lightgreen;
+    float: left;
+}
+
+.three_two_one{
+    height: 160px;
+    width: 630px;
+    background-color: lightblue;
+    float: left;
+}
+
+.three_two_one_a{
+    height: 160px;
+    width: 315px;
+    background-color: lightcoral;
+    float: left;
+}
+
+.three_two_one_b{
+    height: 160px;
+    width: 315px;
+    background-color: lightgoldenrodyellow;
+    float: left;
+}
+
+.three_two_one_b_x{
+    height: 80px;
+    width: 315px;
+    background-color: lightcyan;
+    float: left;
+}
+
+.three_two_one_b_y{
+    height: 80px;
+    width: 315px;
+    background-color: lightpink;
+    float: left;
+}
+
+.three_two_two{
+    height: 40px;
+    width: 630px;
+    background-color: lightsteelblue;
+    float: left;
+}
